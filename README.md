@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./avatar.svg" width="160" height="160" alt="Michael - Toxic Wolf Avatar" style="border-radius: 50%; box-shadow: 0 0 25px rgba(0, 245, 255, 0.4);" />
+
 # Hi there, I'm Michael 👋 
 ### Full-Stack Developer • Systems Builder • Product Engineer
 
